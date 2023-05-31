@@ -15,7 +15,6 @@ This code implements the game of Connect Four in C. Let's go through the output 
  
 <img width="542" alt="78074594-ea394100-739a-11ea-94c1-a500f95b680a" src="https://github.com/jaganadeepika/connect-4.c/assets/134302203/37c17c94-365a-497f-975f-487337e007a1">
 
-
-<img width="542" alt="78074594-ea394100-739a-11ea-94c1-a500f95b680a" src="https://github.com/jaganadeepika/connect-4.c/assets/134302203/9c9b9b69-6c22-474e-a93b-359938e695fa">
+<img width="490" alt="78074613-eefdf500-739a-11ea-948a-fb9de24bb168" src="https://github.com/jaganadeepika/connect-4.c/assets/134302203/a01cea6d-e9b5-4f05-a976-106dc1bf2564">
 
 <img width="633" alt="78074574-e1e10600-739a-11ea-8f0e-e6140af2092a" src="https://github.com/jaganadeepika/connect-4.c/assets/134302203/e4566d8d-85ac-451b-849a-9c5e4e691380">
